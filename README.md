@@ -19,25 +19,19 @@
 - Team 
 - Groups 
 
-## Approved Suggestions
-- Feature to assign tasks to members and set a deadline for the same. 
-- Announcements and Notifications 
-- Event Proposal 
-- Dark Mode
-
 # Getting Started
 This lists any major frameworks or concepts that will be necessary to know when working on the project.
 
-## MVVM Architecture
+### MVVM Architecture
 Using Android Jetpack components like LiveData, DataBinding, ViewModel, etc.
 
-## Dependency Injection
+### Dependency Injection
 Either Dagger Hilt or Koin
 
-## Setting up of TJ Web backend APIs
+### Setting up of TJ Web backend APIs
 Retrofit + Kotlin Coroutines
 
-## Other Cencepts / Frameworks
+### Other Cencepts / Frameworks
 - Automated Testing (Espresso and Robolectric)
 - Notifications 
 - Dark Mode 
@@ -52,5 +46,5 @@ Retrofit + Kotlin Coroutines
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-# Resources
+## Resources
 - Backend API routes - <https://radiant-thicket-94737.herokuapp.com>
