@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_first"
+        android:title="@string/text"
+        android:icon="@drawable/ic_home"
+        app:exb_color="#54CCEA" />
+
+
+
+    <item
+        android:id="@+id/fragment_second"
+        android:title="@string/text2"
+        android:icon="@drawable/ic_task"
+        app:exb_color="#54CCEA" />
+
+    <item
+        android:id="@+id/fragment_third"
+        android:title="@string/text3"
+        android:icon="@drawable/ic_profile"
+        app:exb_color="#54CCEA" />
+
+    <item
+        android:id="@+id/fragment_forth"
+        android:title="@string/text4"
+        android:icon="@drawable/ic_events"
+        app:exb_color="#54CCEA" />
+</menu>

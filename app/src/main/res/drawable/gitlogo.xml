@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid
+                android:color="#666666"/>
+
+            <size
+                android:width="5dp"
+                android:height="5dp"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/git_logo"/>
+</layer-list>
